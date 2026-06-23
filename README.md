@@ -57,7 +57,7 @@
 <!--Поддержка-->
 ## Поддержка
 Если у вас возникли сложности или вопросы по использованию приложения, создайте 
-[обсуждение](https://github.com/2010-hub/home-library-desktop/issues/new/choose) в данном репозитории или напишите нам в сообщения канала в [**Telegram**](https://t.me/Serpent_lab).
+[**обсуждение**](https://github.com/2010-hub/home-library-desktop/issues/new/choose) в данном репозитории или напишите нам в сообщения канала в [**Telegram**](https://t.me/Serpent_lab).
 
 <!--зависимости-->
 ## Зависимости
