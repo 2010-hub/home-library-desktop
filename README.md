@@ -1,5 +1,5 @@
 # Home Library Desktop
-Приложение для каталогизации домашней библиотеки. Также у нас есть [**версия для сервера**](https://github.com/2010-hub/home-library-app) (она позволяет пользователям работать через интернет в веб-версии. В ней больше функций) <!-- описание репозитория -->
+***English version of*** [***README.md***](https://github.com/2010-hub/home-library-app/blob/2f920dcebaf36658c8e360efa6ac0485d99f0ed1/README_EN.md). Приложение для каталогизации домашней библиотеки. Также у нас есть [**версия для сервера**](https://github.com/2010-hub/home-library-app) (она позволяет пользователям работать через интернет в веб-версии. В ней больше функций) <!-- описание репозитория -->
 <!--Блок информации о репозитории в бейджах-->
 ![Static Badge](https://img.shields.io/badge/by-SerpentBot_Laboratory-purple?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/2010-hub/home-library-app)
