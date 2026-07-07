@@ -1,5 +1,5 @@
 # Home Library Desktop
-***English version of*** [***README.md***](https://github.com/2010-hub/home-library-app/blob/2f920dcebaf36658c8e360efa6ac0485d99f0ed1/README_EN.md). An application for cataloging your home library. We also have a [**server version**](https://github.com/2010-hub/home-library-app) (it allows users to work online in the web version. It has more features) <!-- repository description -->
+***Русская версия*** [***README.md***](https://github.com/2010-hub/home-library-desktop/blob/058be2b29f49a0d7e8f54e72b60fa1285b68f838/README.md). An application for cataloging your home library. We also have a [**server version**](https://github.com/2010-hub/home-library-app) (it allows users to work online in the web version. It has more features) <!-- repository description -->
 <!-- Repository information block in badges -->
 ![Static Badge](https://img.shields.io/badge/by-SerpentBot_Laboratory-purple?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/2010-hub/home-library-app)
