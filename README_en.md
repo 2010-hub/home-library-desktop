@@ -1,4 +1,5 @@
-# Home Library Desktop
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Home-Library-Desktop%20&width=1200&height=210)](https://github.com/Akshay090/svg-banners)
+
 ***Русская версия*** [***README.md***](https://github.com/2010-hub/home-library-desktop/blob/058be2b29f49a0d7e8f54e72b60fa1285b68f838/README.md). An application for cataloging your home library. We also have a [**server version**](https://github.com/2010-hub/home-library-app) (it allows users to work online in the web version. It has more features) <!-- repository description -->
 <!-- Repository information block in badges -->
 ![Static Badge](https://img.shields.io/badge/by-SerpentBot_Laboratory-purple?logo=github)
