@@ -76,11 +76,4 @@
 Создайте папку **Library** на Google Drive (или любую другую по своему усмотрению)
 
 ## Скриншоты
-![Скриншот 1](https://github.com/2010-hub/home-library-desktop/blob/f893e0f068caf8dd07d7548611387a5678f1c80a/images/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_BOe4B00Imx.jpg)
-![Скриншот 2](https://github.com/2010-hub/home-library-desktop/blob/f893e0f068caf8dd07d7548611387a5678f1c80a/images/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_TQVYlye5nl.jpg)
-![Скриншот 3](https://github.com/2010-hub/home-library-desktop/blob/f893e0f068caf8dd07d7548611387a5678f1c80a/images/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_WRkHAVb1ws.jpg)
-![Скриншот 4](https://github.com/2010-hub/home-library-desktop/blob/f893e0f068caf8dd07d7548611387a5678f1c80a/images/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_Z8HVltYRi0.jpg)
-![Скриншот 5](https://github.com/2010-hub/home-library-desktop/blob/f893e0f068caf8dd07d7548611387a5678f1c80a/images/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_N055wqmpCe.jpg)
-![Скриншот 6](https://github.com/2010-hub/home-library-desktop/blob/f893e0f068caf8dd07d7548611387a5678f1c80a/images/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_pKBKOytjgI.jpg)
-![Скриншот 7](https://github.com/2010-hub/home-library-desktop/blob/f893e0f068caf8dd07d7548611387a5678f1c80a/images/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_osNVW1PEhu.jpg)
-
+Скриншоты конкретной версии программы можно посмотреть в [**релизе приложения**](https://github.com/2010-hub/home-library-desktop/releases)
