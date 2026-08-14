@@ -1,5 +1,5 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Home-Library-Desktop%20&width=1200&height=210)
-***English version of*** [***README.md***](https://github.com/2010-hub/home-library-desktop/blob/7fb25b9bf5570eceef584f10e1f3328ac262ec65/README_en.md). Приложение для каталогизации домашней библиотеки. Также у нас есть [**версия для сервера**](https://github.com/2010-hub/home-library-app) (она позволяет пользователям работать через интернет в веб-версии. В ней больше функций) <!-- описание репозитория -->
+***English version of*** [***README.md***](https://github.com/2010-hub/home-library-desktop/blob/43ae0706e45508fdb5abc6053047006763203520/README_en.md). Приложение для каталогизации домашней библиотеки. Также у нас есть [**версия для сервера**](https://github.com/2010-hub/home-library-app) (она позволяет пользователям работать через интернет в веб-версии. В ней больше функций) <!-- описание репозитория -->
 <!--Блок информации о репозитории в бейджах-->
 ![Static Badge](https://img.shields.io/badge/by-SerpentBot_Laboratory-purple?logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/2010-hub/home-library-app)
